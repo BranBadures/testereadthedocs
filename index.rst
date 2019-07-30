@@ -3,12 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentacao Whatsapp
-============================================
+Whatsapp Core
+========
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+.. image:: WhatsApp-Messenger.png
+    :width: 120px
+    :alt: Solidity logo
+    :align: center
 
 
 
