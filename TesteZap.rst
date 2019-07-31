@@ -1,6 +1,21 @@
-.. index:: ! installing
+#################
+Solidity in Depth
+#################
 
-.. _installing-solidity:
+This section should provide you with all you need to know about Solidity.
+If something is missing here, please contact us on
+`Gitter <https://gitter.im/ethereum/solidity>`_ or create a pull request on
+`Github <https://github.com/ethereum/solidity/pulls>`_.
 
-Curabitur non nibh dui. Mauris nec scelerisque ante, sed imperdiet ex. Suspendisse porttitor elit libero, quis malesuada ipsum cursus vitae. Quisque suscipit tempus nibh, in blandit nunc consequat a. Curabitur bibendum ac purus id molestie. Suspendisse potenti. Pellentesque dictum nec quam sit amet venenatis. Ut quis pellentesque neque.
+.. toctree::
+   :maxdepth: 2
 
+   layout-of-source-files.rst
+   structure-of-a-contract.rst
+   types.rst
+   units-and-global-variables.rst
+   control-structures.rst
+   contracts.rst
+   assembly.rst
+   miscellaneous.rst
+   050-breaking-changes.rst
